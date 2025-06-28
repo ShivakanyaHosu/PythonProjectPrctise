@@ -60,3 +60,13 @@ a -= 1
 print(a)
 a *= 3
 print(a)
+
+# Ternary Operator
+print("x is greater " if x > y else "y is greater")
+
+# Ternary operator is like if else
+'''
+if x > y :
+    print(" x is greater")
+else:
+    print(" y is greater") '''
