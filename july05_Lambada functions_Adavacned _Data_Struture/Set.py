@@ -14,3 +14,6 @@ print(set4)
 set5 = set1.difference(list_of_unique_items)  # difference
 set6 = list_of_unique_items.difference(set1)  # difference
 print(set5, set6)
+
+for i in set1:
+    print(i)
