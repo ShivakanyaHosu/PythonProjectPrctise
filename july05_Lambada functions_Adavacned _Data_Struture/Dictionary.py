@@ -15,4 +15,4 @@ print(my_dict)  # delete key
 for key, value in my_dict.items():
     # print(key, value)
     print(key, "->", value)
-print("age" in my_dict)
+print("age" in my_dict)  # to true or false
